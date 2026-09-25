@@ -1,2 +1,1 @@
-# Visió
-n-por-Ordenador
+# Visión-por-Ordenador
